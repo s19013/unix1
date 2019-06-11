@@ -1,1 +1,1 @@
-sudo find /var -type f  |xargs sudo  du| sort -rn -k 1|head -5
+sudo  du /var/* | sort -rn |head -5

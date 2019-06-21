@@ -1,0 +1,15 @@
+curl -f "http://netcafe-joybox.net/" > /dev/null
+curl -f "http://netcafe.mh-frontier.jp/default.aspx" > /dev/null
+curl -f "http://www.arad.jp/" > /dev/null
+curl -f "http://www.econline.jp/" > /dev/null
+curl -f "http://maplestory.nexon.co.jp/beginner/" > /dev/null
+curl -f "http://lh.gamania.co.jp/entrance/" > /dev/null
+curl -f "http://sa.nexon.co.jp/" > /dev/null
+curl -f "http://aion.plaync.jp/" > /dev/null
+curl -f "http://www.ncsoft.jp/lineage2/" > /dev/null
+curl -f "http://heroes.nexon.co.jp/" > /dev/null
+curl -f "http://www.mabinogi.jp/" > /dev/null
+curl -f "http://sf2.hangame.co.jp/index.nhn" > /dev/null
+curl -f "http://msgo.bandainamco-ol.jp/" > /dev/null
+curl -f "http://www.avaonline.jp/" > /dev/null
+curl -f "http://www.tetsuya-tonpu.com/" > /dev/null

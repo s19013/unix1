@@ -1,1 +1,2 @@
-find /var/log -name  "*.log" 
+find /var/log -name  "*.log"
+#nameと""をつける

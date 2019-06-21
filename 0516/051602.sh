@@ -1,1 +1,1 @@
-locale
+echo  $ LANG

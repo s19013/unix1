@@ -1,1 +1,5 @@
-find ~ -type f 2> /dev/null |sort|head -n 5
+find ~ -type f 2> /dev/null | wc -l
+#[~]はホームを表す
+#[2]は標準エラー出力を意味する
+#これを/dev/nullに出力する　要するにゴミ箱に捨てるような感覚
+#[wc -l]で行数だけを数える

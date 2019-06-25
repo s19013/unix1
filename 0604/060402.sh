@@ -1,7 +1,7 @@
 for file in $@
 do
   if [ -f "$file" ];  then
-    du  "$file"
+    du -b "$file"
   else
     echo "${file}: 通常のファイルではない"
   fi
